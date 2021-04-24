@@ -23,8 +23,8 @@ name                     : "QuietDuck"
 description              : "꽥꽥"
 url                      : "https://quietduck.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+repository               : "quietduck/quietduck.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : "/assets/images/quietduck.jpeg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -95,9 +95,9 @@ analytics:
 # Site Author
 author:
   name             : "QuietDuck"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/quietduck.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "뒹굴뒹굴 굴러다니는 개발자."
-  location         : "내 집"
+  location         : "오리 농장"
   email            :
   links:
     - label: "Email"
